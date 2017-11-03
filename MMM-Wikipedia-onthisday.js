@@ -13,8 +13,8 @@ Module.register("newsfeed",{
 	defaults: {
 		feeds: [
 			{
-				title: "New York Times",
-				url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+				title: "Wikipedia - On This Day",
+				url: "https://de.wikipedia.org/w/api.php?action=featuredfeed&feed=onthisday&feedformat=atom",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
