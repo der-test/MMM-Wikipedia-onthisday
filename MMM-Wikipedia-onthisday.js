@@ -34,7 +34,8 @@ Module.register("MMM-Wikipedia-onthisday",{
 		removeEndTags: "",
 		startTags: [],
 		endTags: [],
-		prohibitedWords: []
+		prohibitedWords: [],
+		language: [en]
 
 	},
 
