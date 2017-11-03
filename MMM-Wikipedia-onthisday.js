@@ -1,9 +1,9 @@
 /* global Module */
 
 /* Magic Mirror
- * Module: NewsFeed
+ * Module: MMM-Wikipedia-onthisday
  *
- * By Michael Teeuw http://michaelteeuw.nl
+ * By Tim Estermann
  * MIT Licensed.
  */
 
