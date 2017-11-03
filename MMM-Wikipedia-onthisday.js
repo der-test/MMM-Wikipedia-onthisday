@@ -7,7 +7,7 @@
  * MIT Licensed.
  */
 
-Module.register("newsfeed",{
+Module.register("MMM-Wikipedia-onthisday",{
 
 	// Default module config.
 	defaults: {
